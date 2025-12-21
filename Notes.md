@@ -1,23 +1,24 @@
 # Indice
 
-- [[#"Hacking"|"Hacking"]]
-	- [[#"Hacking"#cat|cat]]
-	- [[#"Hacking"#file|file]]
-	- [[#"Hacking"#find|find]]
-	- [[#"Hacking"#sed|sed]]
-- [[#grep y awk|grep y awk]]
-	- [[#grep y awk#cut|cut]]
-	- [[#grep y awk#strings|strings]]
-	- [[#grep y awk#base64|base64]]
-	- [[#grep y awk#tr|tr]]
-	- [[#grep y awk#xxd|xxd]]
-	- [[#grep y awk#7z|7z]]
-	- [[#grep y awk#Salida|Salida]]
-	- [[#grep y awk#Procesos y puerto|Procesos y puerto]]
-	- [[#grep y awk#diff|diff]]
-	- [[#grep y awk#cron|cron]]
-	- [[#grep y awk#git|git]]
-	- [[#grep y awk#SSH|SSH]]
+- [Hacking](#hacking)
+  - [cat](#cat)
+  - [file](#file)
+  - [find](#find)
+  - [sed](#sed)
+- [grep and awk](#grep-and-awk)
+  - [cut](#cut)
+  - [strings](#strings)
+  - [base64](#base64)
+  - [tr](#tr)
+  - [xxd](#xxd)
+  - [7z](#7z)
+  - [Output](#output)
+  - [Processes and ports](#processes-and-ports)
+  - [diff](#diff)
+  - [cron](#cron)
+  - [git](#git)
+  - [SSH](#ssh)
+
 
 ---
 # "Hacking"
